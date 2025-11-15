@@ -1,5 +1,3 @@
-#CPSC 351- Operating Systems Time Sharing in Action (Group 2)
-#Group Members: Adam Medrano, Joshua Kang, Frank Rangel, Jonathan Quiroz, Chase Sisavath
 #Goal: Simulate CPU scheduling algorithms and visualize their performance using Gantt charts.
 
 #Import necessary libraries
