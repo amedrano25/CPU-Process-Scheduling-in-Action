@@ -105,7 +105,7 @@ At the end, a comparative table and bar chart summarize the results:
 
 ## Project Structure
 ```
-phase2_scheduling/
+CPU_scheduling/
 │
 ├── main.py                    # Main script
 ├── README.md                  # README file
